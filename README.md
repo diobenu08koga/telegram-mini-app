@@ -1,30 +1,50 @@
 # TapTapZoo Mini Game
 
-Tap, score, and style: Unlock epic skins in this addictive Telegram crypto game!
+A Telegram-based crypto game that combines tapping gameplay with blockchain technology.
 
 ## Overview
-TapTapZoo Mini Game integrates crypto features into Telegram, providing a fun and accessible way for users to interact with blockchain technology through gaming.
+
+TapTapZoo Mini Game integrates cryptocurrency features into Telegram, providing an engaging way for users to interact with blockchain technology through casual gaming. Players can tap, score points, and unlock skins while experiencing crypto integration.
 
 ## Features
-- Seamless crypto integration for Telegram users
-- Access to Telegram's large user base
-- Engaging gameplay that bridges gaming and crypto
 
-## Challenges
-- Cross-platform compatibility
-- Token integration and liquidity
-- Platform-specific behavior
+- **Crypto Integration**: Seamless blockchain technology integration
+- **Telegram Platform**: Leverages Telegram's large user base
+- **Gaming Experience**: Engaging tap-based gameplay mechanics
+- **Skin System**: Unlockable cosmetic items and skins
+- **Cross-Platform**: Works across different devices and platforms
 
-## Technologies Used
-- Telegram-apps SDK
-- Telegram UI
-- Next.js
-- Wagmi
-- AppKit
-- Node.js
-- PostgreSQL
+## Technology Stack
+
+- **Frontend**: Next.js, Telegram UI
+- **Blockchain**: Wagmi, AppKit
+- **Backend**: Node.js
+- **Database**: PostgreSQL
+- **Platform**: Telegram-apps SDK
+
+## Installation
+
+```bash
+npm install
+# or
+yarn install
+```
+
+## Development
+
+```bash
+npm run dev
+# or
+yarn dev
+```
 
 ## Project Structure
+
 - `src/` - Source code
 - `public/` - Public assets
-- `README.md` - Documentation
+- `components.json` - Configuration
+- `package.json` - Dependencies
+
+## License
+
+MIT License
